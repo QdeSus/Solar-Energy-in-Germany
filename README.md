@@ -16,7 +16,7 @@ The electricity production values are mixed in the VALUE column, where data from
 - Germany has data from 2010 to 2022 for all months, and in none of the cases, the value is 0 (Figure 3).
 
 ## Analysis and creation of necessary tables for visualization (Python Pandas)
-- Create a table showing how much electricity each country produced between 2018 and 2022 (inclusive) in total and from solar energy, along with a column reflecting the percentage of the total that solar energy represented (Figure 4).
-- Create a table showing, for Germany, for all years from 2010 to 2022, the total electricity production, total electricity production from solar energy, the ratio between the two, and the annual increase in this ratio. Additionally, create a table comparing the % of solar energy in Germany with that of OECD Europe and OECD Total (Figure 5).
+- Create a table showing how much electricity each country produced between 2018 and 2022 (inclusive) in total and from solar energy, along with a column reflecting the percentage of the total that solar energy represented [(Figure 4)](solar_vs_total.py).
+- Create a table showing, for Germany, for all years from 2010 to 2022, the total electricity production, total electricity production from solar energy, the ratio between the two, and the annual increase in this ratio. Additionally, create a table comparing the % of solar energy in Germany with that of OECD Europe and OECD Total [(Figure 5)](solar_germany.py).
 
 ![Ejemplo de imagen](visualizations/Viz1.png)
