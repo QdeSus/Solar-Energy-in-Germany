@@ -20,13 +20,13 @@ In order to understand the structure of the data and prepare for the analysis I 
 
 **3.2. Data Cleaning and Verification (SQL BigQuery)**
 
-- Question 1: "Germany", "OECD Europe" and "OECD Total" have data for "Solar" and "Net electricity production" for all months between 2010 and 2022, and in none of the cases, the value is 0 [(Query 1)](SQL_queries.txt).
-- Question 2: Out of the 52 countries, only 50 of them have complete data about "Solar" and "Net electricity production" for each month between 2017 and 2022. We will exclude the ones with incomplete data for the analyisis: Costa Rica nad Iceland. [(Query 2)](SQL_queries.txt).
+- Question 1: "Germany", "OECD Europe" and "OECD Total" have data for "Solar" and "Net electricity production" for all months between 2010 and 2022, and in none of the cases, the value is 0 [(Query 1)](code/SQL_queries.txt).
+- Question 2: Out of the 52 countries, only 50 of them have complete data about "Solar" and "Net electricity production" for each month between 2017 and 2022. We will exclude the ones with incomplete data for the analyisis: Costa Rica nad Iceland. [(Query 2)](code/SQL_queries.txt).
 
 **3.3. Analysis and creation of the necessary tables for visualization (Python Pandas)**
 
-- Question 1: Create a table comparing the share of the total electricty production that solar energy represented for "Germany", "OECD Europe" and "OECD Total" between 2010 and 2022 [(Script 1)](Q1.py).
-- Question 2: Create a table showing how much electricity each country produced between 2017 and 2022 both in total and from solar energy, along with a column reflecting the percentage of the share that solar energy represented [(Script 2)](Q2.py).
+- Question 1: Create a table comparing the share of the total electricty production that solar energy represented for "Germany", "OECD Europe" and "OECD Total" between 2010 and 2022 [(Script 1)](code/Q1.py).
+- Question 2: Create a table showing how much electricity each country produced between 2017 and 2022 both in total and from solar energy, along with a column reflecting the percentage of the share that solar energy represented [(Script 2)](code/Q2.py).
 
 
 ## 4. Results
