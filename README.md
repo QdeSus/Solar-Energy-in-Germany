@@ -25,8 +25,8 @@ In order to understand the structure of the data and prepare for the analysis I 
 
 **3.3. Analysis and creation of the necessary tables for visualization (Python Pandas)**
 
-- Question 1: Create a table comparing the share of the total electricty production that solar energy represented for "Germany", "OECD Europe" and "OECD Total" between 2010 and 2022 [(Script 1)](solar_germany.py).
-- Question 2: Create a table showing how much electricity each country produced between 2017 and 2022 both in total and from solar energy, along with a column reflecting the percentage of the share that solar energy represented [(Script 2)](solar_vs_total.py).
+- Question 1: Create a table comparing the share of the total electricty production that solar energy represented for "Germany", "OECD Europe" and "OECD Total" between 2010 and 2022 [(Script 1)](Q1.py).
+- Question 2: Create a table showing how much electricity each country produced between 2017 and 2022 both in total and from solar energy, along with a column reflecting the percentage of the share that solar energy represented [(Script 2)](Q2.py).
 
 
 ## 4. Results
