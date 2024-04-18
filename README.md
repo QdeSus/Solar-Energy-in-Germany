@@ -42,13 +42,10 @@ Question 1: % of total electricity production that came from Solar Energy in Ger
 ![Ejemplo de imagen](visualizations/Viz1.png)
 [*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/GermanyvsOECD_17129401671640/Hoja2)
 
-
-
 Question 2: % of total electricity production that came from Solar Energy in the countries in the countries for which we have data (2018-2022)
  
 ![Ejemplo de imagen](visualizations/Viz2.png)
 [*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/totalelectricityproducedbySolar/Hoja1)
-
 
 ## 5. Conclussions
 
