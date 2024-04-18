@@ -30,9 +30,16 @@ In this step, we utilized the Python pandas library to filter and manipulate the
 - Question 1: Creation of a table comparing the share of the total electricty production that solar energy represented for "Germany", "OECD Europe" and "OECD Total" between 2010 and 2022. [(Script 1)](code/Q1.py)
 - Question 2: Creation of a table showing how much electricity each country produced between 2017 and 2022 both in total and from solar energy, along with a column reflecting the percentage of the share that solar energy represented. [(Script 2)](code/Q2.py)
 
+**3.4. Creation of the visualizations (Tableau)**
+
+With the csv files created in the previous step as the data source, I created two visualizations in Tableau to view the results graphically. With the csv files created in the previous step as the data source, I created two visualizations in Tableau to view the results graphically. These visualizations can be seen both in my [Tableau Public profile](https://public.tableau.com/app/profile/enrique.de.sus/vizzes) and in the next section of this report.
 
 ## 4. Results
-![Ejemplo de imagen](visualizations/Viz1.png)
 
+Question 1: 
+![Ejemplo de imagen](visualizations/Viz1.png)
+![Ejemplo de imagen](visualizations/Viz2.png)
 
 ## 5. Conclussions
+
+Germany is doing well.
