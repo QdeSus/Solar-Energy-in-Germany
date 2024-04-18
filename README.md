@@ -37,16 +37,18 @@ With the csv files created in the previous step as the data source, I created tw
 
 ## 4. Results
 
-Question 1: % of total electricity production that came from Solar Energy in Germany, OECD Europe and OECD Total (2010-2022)
+Visualization related to question 1: % of total electricity production that came from Solar Energy in Germany, OECD Europe and OECD Total (2010-2022)
 
 ![Ejemplo de imagen](visualizations/Viz1.png)
 [*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/GermanyvsOECD_17129401671640/Hoja2)
 
-Question 2: % of total electricity production that came from Solar Energy in the countries in the countries for which we have data (2018-2022)
+Visualization related to question 2: % of total electricity production that came from Solar Energy in the countries in the countries for which we have data (2018-2022)
  
 ![Ejemplo de imagen](visualizations/Viz2.png)
 [*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/totalelectricityproducedbySolar/Hoja1)
 
 ## 5. Conclussions
 
-Germany is doing well.
+Germany is doing well.The overall conclusion is that Germany is quite advanced in solar energy on the international scene. Of the 50 countries for which we have data, it ranks sixth with the highest percentage of energy production coming from the sun. It should also be noted that the five countries ahead of it are countries with the greatest solar potential due to their geography, which makes this sixth place even more meritorious.
+
+The graph comparing Germany with the OECD shows that since 2010, the growth of the solar industry in Germany has been similar to that of the rest of the countries. Germany's advantageous position today is not due to strong growth in recent years but rather to accelerated growth in the years prior to 2010 or simply to the fact that Germany started to go solar earlier than other countries. To clarify this doubt we would need access to data prior to 2010.
