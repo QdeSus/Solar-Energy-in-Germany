@@ -5,7 +5,7 @@
 
 ## 2. Questions to answer
 1. What percentage of Germany's total electricity production came from solar energy between 2010 and 2022, and how do these figures deviate from the OECD average?
-2. Out of the countries for which we have data, which ones generated a higher percentage of solar energy relative to their total generated energy between 2017 and 2022?
+2. Out of the countries for which we have data, which ones generated a higher percentage of solar energy relative to their total generated energy between 2017 and 2022 and where does this comparison leave Germany?
 
 ## 3. Step-by-step procedure
 
