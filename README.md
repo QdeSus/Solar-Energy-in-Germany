@@ -34,11 +34,18 @@ In this step, we utilized the Python pandas library to filter and manipulate the
 
 With the csv files created in the previous step as the data source, I created two visualizations in Tableau to view the results graphically. With the csv files created in the previous step as the data source, I created two visualizations in Tableau to view the results graphically. These visualizations can be seen both in my [Tableau Public profile](https://public.tableau.com/app/profile/enrique.de.sus/vizzes) and in the next section of this report.
 
+
 ## 4. Results
 
 Question 1: 
 ![Ejemplo de imagen](visualizations/Viz1.png)
+
+[*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/GermanyvsOECD_17129401671640/Hoja2)
+
+Question 2: 
 ![Ejemplo de imagen](visualizations/Viz2.png)
+
+[*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/totalelectricityproducedbySolar/Hoja1)
 
 ## 5. Conclussions
 
