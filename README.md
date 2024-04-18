@@ -18,15 +18,15 @@ In order to understand the structure of the data and prepare for the analysis I 
 - In the column "COUNTRY" we find values such as "OECD Total", "IEA Total", "OECD Americas", "OECD Europe" or "OECD Asia Oceania". We will exclude them when working on question 2 as they are sets of countries rather than specific countries.
 - The columns "TIME" and "TIME_CODE" show a unique code representing a specific month of a given year (Example: "JANUARY2010" for January 2010). This can help us in the following steps, as it enables us to distinguish between the same month of different years.
 
-**3.2. Data Cleaning and Verification (SQL BigQuery)**
+**3.2. Data verification (SQL BigQuery)**
 
 After becoming acquainted with the dataset, the next step involved verifying the availability of necessary data to address our research questions. Utilizing SQL queries in BigQuery enabled us to reach the following conclusions.
 - Question 1: "Germany", "OECD Europe" and "OECD Total" have data for "Solar" and "Net electricity production" for all months between 2010 and 2022, and in none of the cases, the value is 0. [(Query 1)](code/SQL_queries.txt)
 - Question 2: Out of the 52 countries, only 50 of them have complete data about "Solar" and "Net electricity production" for each month between 2017 and 2022. We will exclude the ones with incomplete data for the analyisis: Costa Rica nad Iceland. [(Query 2)](code/SQL_queries.txt)
 
-**3.3. Analysis and creation of the necessary tables for visualization (Python Pandas)**
+**3.3. Data manipulation and creation of the necessary tables (Python Pandas)**
 
-In this step, we utilized the Python pandas library to filter and manipulate the data, enabling us to extract the two necessary tables needed to effectively answer the questions:
+In this step, we utilized the Python pandas library to filter and manipulate the data, enabling us to extract the two necessary dataframes needed to effectively answer the questions:
 - Question 1: Creation of a table comparing the share of the total electricty production that solar energy represented for "Germany", "OECD Europe" and "OECD Total" between 2010 and 2022. [(Script 1)](code/Q1.py)
 - Question 2: Creation of a table showing how much electricity each country produced between 2017 and 2022 both in total and from solar energy, along with a column reflecting the percentage of the share that solar energy represented. [(Script 2)](code/Q2.py)
 
