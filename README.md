@@ -38,18 +38,18 @@ With the .csv files obtained in the previous step as the data source, two visual
 
 ## 4. Results
 
-Visualization related to question 1: % of total electricity production that came from Solar Energy in Germany, OECD Europe and OECD Total (2010-2022)
+Question 1: Percentage of total electricity production that came from Solar Energy in Germany, OECD Europe and OECD Total (2010-2022)
 
 ![Ejemplo de imagen](visualizations/Viz1.png)
 [*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/GermanyvsOECD_17129401671640/Hoja2)
 
-Visualization related to question 2: % of total electricity production that came from Solar Energy in the countries in the countries for which we have data (2018-2022)
+Question 2: Percentage of total electricity production that came from Solar Energy in the countries in the countries for which we have data (2018-2022)
  
 ![Ejemplo de imagen](visualizations/Viz2.png)
 [*Interactive Vizz in Tableau public*](https://public.tableau.com/app/profile/enrique.de.sus/viz/totalelectricityproducedbySolar/Hoja1)
 
 ## 5. Conclussions
 
-The overall conclusion is that Germany is quite advanced in solar energy on the international scene. Of the 50 countries for which we have data, it ranks sixth with the highest percentage of energy production coming from the sun. It should also be noted that the five countries ahead of it are countries with the greatest solar potential due to their geography, which makes this sixth place even more meritorious.
+The overall conclusion is that Germany is quite advanced in solar energy on the international scene. Of the 50 countries for which we have data, it ranks sixth with the highest percentage of energy production coming from the sun. It should also be noted that the five countries ahead of it are countries with greater solar potential due to their geography, which makes this sixth place even more meritorious.
 
-The comparative graph with the OECD shows that Germany was already in a good position in 2010, which may be due to faster growth than other countries in the years prior to 2010 or simply to the fact that Germany began to support solar energy earlier. To clarify this doubt we would need access to data prior to 2010. However, since 2010 the growth of the solar industry in Germany has been higher than in other countries of the OECD and the gap has only become larger. This leads us to the conclusion that Germany's advantageous position today is not only due to a better starting point but also to a strong commitment to solar energy growth in recent years.
+The comparative graph with the OECD shows that Germany was already in a good position in 2010, which may be due to faster growth than other countries in the years prior to 2010 or simply to the fact that Germany began to commit with solar energy earlier. To clarify this doubt we would need access to data prior to 2010. However, since 2010 the growth of the solar industry in Germany has been higher than in other countries of the OECD and the gap has only become larger. This leads us to the conclusion that Germany's advantageous position today is not only due to a better starting point but also to a strong commitment to solar energy growth in recent years.
